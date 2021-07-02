@@ -25,7 +25,6 @@ public class TwoStackAlgorithm {
         }
         System.out.println(vals.peek());
         System.out.println(vals.pop());
-
     }
 
 
