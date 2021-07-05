@@ -2,11 +2,12 @@
 
 <a href="https://github.com/hygiei4" style="color:red">Welcome My GitHub Profile!</a>
 
-| LeetCode Problems  | AlgoExpert Problems | Coursera Implementation| Coursera Assignment |
+
+| LeetCode Problems Solved  | AlgoExpert Problems Solved | Coursera Implementation| Coursera Assignment |
 | ----------------- | ------------- | ------------- | ------------- |
 | 1-BestTimetoBuyandSellStock   | 1-MinMaxStack  | 1- Knuth | 1- Deque |
 | 2-BuildAnArrayWithStackOperations  |2-Balanced Brackets  | 2- Queue |
-| 3-climbStairs  | 3-Min Max Stack | 3- QuickFind |
+| 3-<a href="https://leetcode.com/problems/climbing-stairs/" style="color:red">climbStairs</a>  | 3-Min Max Stack | 3- QuickFind |
 | 4-constructMaximumBinaryTree  | 4-Sunset Views | 4- QuickUnion |
 | 5-DailyTemperatures  | | 5- ResizingArray |
 | 6-DesignBrowserHistory  | | 6-Stack |
