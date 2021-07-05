@@ -1,4 +1,7 @@
 # courseraAlgorithmsAndLeetCode
+
+<a href="https://github.com/hygiei4" style="color:red">Welcome My GitHub!</a>
+
 | LeetCode Problems  | AlgoExpert Problems | Coursera Implementation| Coursera Assignment |
 | ----------------- | ------------- | ------------- | ------------- |
 | 1-BestTimetoBuyandSellStock   | 1-MinMaxStack  | 1- Knuth | 1- Deque |
@@ -36,6 +39,7 @@
 | 33-ValidParentheses  |
 | 34-ValidSubsequences  |
 | 35-WordPattern  |
+
 
 
 
