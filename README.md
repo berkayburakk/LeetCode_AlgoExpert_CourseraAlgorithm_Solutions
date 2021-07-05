@@ -1,5 +1,5 @@
 # courseraAlgorithmsAndLeetCode
-The following LeetCode problems and solutions are added.<br/>
+The following LeetCode problems and solutions are added.<br/><bold>
 
 1-BestTimetoBuyandSellStock<br/>
 2-BuildAnArrayWithStackOperations<br/>
@@ -38,7 +38,7 @@ The following LeetCode problems and solutions are added.<br/>
 35-ValidSubsequences<br/>
 36-WordPattern<br/>
 <br/><br/>
-The following LeetCode problems and solutions are added.<br/>
+The following LeetCode problems and solutions are added.<br/><bold>
 1-Balanced Brackets<br/>
 2-Min Max Stack<br/>
 3-Sunset Views<br/>
