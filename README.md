@@ -1,6 +1,5 @@
 # courseraAlgorithmsAndLeetCode
 <a href="https://github.com/hygiei4" style="color:red">Welcome My GitHub Profile!</a>
-color.Blue("Prints %s in blue.", "text")
 
 | LeetCode Problems Solved  | AlgoExpert Problems Solved | Coursera Implementation| Coursera Assignment |
 | ----------------- | ------------- | ------------- | ------------- |
