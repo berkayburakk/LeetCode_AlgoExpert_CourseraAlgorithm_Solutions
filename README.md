@@ -38,4 +38,9 @@ The following LeetCode problems and solutions are added.
 35-ValidSubsequences
 36-WordPattern
 
+The following LeetCode problems and solutions are added.
+1-Balanced Brackets
+2-Min Max Stack
+3-Sunset Views
+
 
