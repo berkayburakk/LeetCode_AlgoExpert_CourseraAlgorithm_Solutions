@@ -1,6 +1,6 @@
 # courseraAlgorithmsAndLeetCode
 
-<a href="https://github.com/hygiei4" style="color:red">Welcome My GitHub!</a>
+<a href="https://github.com/hygiei4" style="color:red">Welcome My GitHub Profile!</a>
 
 | LeetCode Problems  | AlgoExpert Problems | Coursera Implementation| Coursera Assignment |
 | ----------------- | ------------- | ------------- | ------------- |
