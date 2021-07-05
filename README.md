@@ -1,15 +1,15 @@
 # courseraAlgorithmsAndLeetCode
-| LeetCode Problems  | AlgoExpert Problems |
-| ------------- | ------------- |
-| 1-BestTimetoBuyandSellStock  | 1-MinMaxStackConstruction  |
-| 2-BuildAnArrayWithStackOperations  |2-Balanced Brackets  |
-| 3-climbStairs  | 3-Min Max Stack |
-| 4-constructMaximumBinaryTree  | 4-Sunset Views |
-| 5-DailyTemperatures  |
-| 6-DesignBrowserHistory  |
-| 7-Fibonacci  |
-| 8-generateParenthesis  |
-| 9-ImplementStackUsingQueues  |
+| LeetCode Problems  | AlgoExpert Problems | Coursera Implementation| Coursera Assignment |
+| ----------------- | ------------- | ------------- | ------------- |
+| 1-BestTimetoBuyandSellStock   | 1-MinMaxStack  | 1- Knuth | 1- Deque |
+| 2-BuildAnArrayWithStackOperations  |2-Balanced Brackets  | 2- Queue |
+| 3-climbStairs  | 3-Min Max Stack | 3- QuickFind |
+| 4-constructMaximumBinaryTree  | 4-Sunset Views | 4- QuickUnion |
+| 5-DailyTemperatures  | | 5- ResizingArray |
+| 6-DesignBrowserHistory  | | 6-Stack |
+| 7-Fibonacci  | |7-SuccessorWithDelete |
+| 8-generateParenthesis  | | 8- TwoStack | 
+| 9-ImplementStackUsingQueues  | | 9-UnionFind |
 | 10-LengthOfLastWord  |
 | 11-lengthOfLongestSubstring  |
 | 12-LongestPalindromicSubstring  |
@@ -20,7 +20,7 @@
 | 17-minPairSum  |
 | 18-MinStack  |
 | 19-NumberOfDifferentIntegersInAString  |
-| 20-PartitioningIntoMinimumNumberOfDeciBinaryNumbers  |
+| 20-PartitioningIntoMinNumberOfDeciBinaryNumbers  |
 | 21-PerfectNumber  |
 | 22-PlusOne  |
 | 23-RemoveDuplicatesFromSortedArray  |
