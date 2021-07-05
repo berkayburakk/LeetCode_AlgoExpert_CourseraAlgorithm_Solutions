@@ -1,48 +1,42 @@
 # courseraAlgorithmsAndLeetCode
-- ![#1589F0]**The following LeetCode problems and solutions are added.**`#1589F0`<br/>
+| LeetCode Problems  | AlgoExpert Problems |
+| ------------- | ------------- |
+| 1-BestTimetoBuyandSellStock  | 1-MinMaxStackConstruction  |
+| 2-BuildAnArrayWithStackOperations  |2-Balanced Brackets  |
+| 3-climbStairs  | 3-Min Max Stack |
+| 4-constructMaximumBinaryTree  | 4-Sunset Views |
+| 5-DailyTemperatures  |
+| 6-DesignBrowserHistory  |
+| 7-Fibonacci  |
+| 8-generateParenthesis  |
+| 9-ImplementStackUsingQueues  |
+| 10-LengthOfLastWord  |
+| 11-lengthOfLongestSubstring  |
+| 12-LongestPalindromicSubstring  |
+| 13-MajorityElement  |
+| 14-MatrixDiagonalSum  |
+| 15-MaximumSubArray  |
+| 16-MergeSortedArray  |
+| 17-minPairSum  |
+| 18-MinStack  |
+| 19-NumberOfDifferentIntegersInAString  |
+| 20-PartitioningIntoMinimumNumberOfDeciBinaryNumbers  |
+| 21-PerfectNumber  |
+| 22-PlusOne  |
+| 23-RemoveDuplicatesFromSortedArray  |
+| 24-RemoveOneElementtoMaketheArrayStrictlyIncreasing  |
+| 25-reverseVowels  |
+| 26-SearchInsertPosition  |
+| 27-SetMismatch  |
+| 28-ThirdMaximumNumber  |
+| 29-ThreeSum  |
+| 30-TicTacToe  |
+| 31-TwoSum  |
+| 32-ValidMountainArray  |
+| 33-ValidParentheses  |
+| 34-ValidSubsequences  |
+| 35-WordPattern  |
 
-1-BestTimetoBuyandSellStock<br/>
-2-BuildAnArrayWithStackOperations<br/>
-3-climbStairs<br/>
-4-constructMaximumBinaryTree<br/>
-5-DailyTemperatures<br/>
-6-DesignBrowserHistory<br/>
-7-Fibonacci<br/>
-8-generateParenthesis<br/>
-9-ImplementStackUsingQueues<br/>
-10-LengthOfLastWord<br/>
-11-lengthOfLongestSubstring<br/>
-12-LongestPalindromicSubstring<br/>
-13-MajorityElement<br/>
-14-MatrixDiagonalSum<br/>
-15-MaximumSubArray<br/>
-16-MergeSortedArray<br/>
-17-MinMaxStackConstruction<br/>
-18-minPairSum<br/>
-19-MinStack<br/>
-20-NumberOfDifferentIntegersInAString<br/>
-21-PartitioningIntoMinimumNumberOfDeciBinaryNumbers<br/>
-22-PerfectNumber<br/>
-23-PlusOne<br/>
-24-RemoveDuplicatesFromSortedArray<br/>
-25-RemoveOneElementtoMaketheArrayStrictlyIncreasing<br/>
-26-reverseVowels<br/>
-27-SearchInsertPosition<br/>
-28-SetMismatch<br/>
-29-ThirdMaximumNumber<br/>
-30-ThreeSum<br/>
-31-TicTacToe<br/>
-32-TwoSum<br/>
-33-ValidMountainArray<br/>
-34-ValidParentheses<br/>
-35-ValidSubsequences<br/>
-36-WordPattern<br/>
-<br/><br/>
-**The following LeetCode problems and solutions are added.**<br/>
-1-Balanced Brackets<br/>
-2-Min Max Stack<br/>
-3-Sunset Views<br/>
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+- ![#c5f015]
+- ![#1589F0]
 
