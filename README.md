@@ -5,7 +5,7 @@
 | ----------------- | ------------- | ------------- | ------------- |
 | 1-BestTimetoBuyandSellStock   | 1-MinMaxStack  | 1- Knuth | 1- Deque |
 | 2-BuildAnArrayWithStackOperations  |2-Balanced Brackets  | 2- Queue |
-| 3-<a href="https://leetcode.com/problems/climbing-stairs/" style="color:red">climbStairs</a>  | 3-Min Max Stack | 3- QuickFind |
+| <a href="https://leetcode.com/problems/climbing-stairs/" style="color:red">3-climbStairs</a>  | 3-Min Max Stack | 3- QuickFind |
 | 4-constructMaximumBinaryTree  | 4-Sunset Views | 4- QuickUnion |
 | 5-DailyTemperatures  | | 5- ResizingArray |
 | 6-DesignBrowserHistory  | | 6-Stack |
