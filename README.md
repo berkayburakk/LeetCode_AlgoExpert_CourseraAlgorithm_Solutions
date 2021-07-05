@@ -1,5 +1,5 @@
 # courseraAlgorithmsAndLeetCode
-The following LeetCode problems and solutions are added.
+The following LeetCode problems and solutions are added.<br/>
 
 1-BestTimetoBuyandSellStock
 2-BuildAnArrayWithStackOperations
