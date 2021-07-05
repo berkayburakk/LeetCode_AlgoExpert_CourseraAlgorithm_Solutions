@@ -37,6 +37,5 @@
 | 34-ValidSubsequences  |
 | 35-WordPattern  |
 
-- ![#c5f015]
-- ![#1589F0]
+
 
