@@ -14,7 +14,7 @@
 | 9-ImplementStackUsingQueues  | | 9-UnionFind |
 | 10-LengthOfLastWord  | | 10-SelectionSort |
 | 11-lengthOfLongestSubstring  | | 11-InsertionSort | 
-| 12-LongestPalindromicSubstring  |
+| 12-LongestPalindromicSubstring  | | 12-ShellSort |
 | 13-MajorityElement  |
 | 14-MatrixDiagonalSum  |
 | 15-MaximumSubArray  |
