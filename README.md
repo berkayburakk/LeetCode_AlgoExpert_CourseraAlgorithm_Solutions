@@ -12,8 +12,8 @@
 | 7-Fibonacci  | |7-SuccessorWithDelete |
 | 8-generateParenthesis  | | 8- TwoStack | 
 | 9-ImplementStackUsingQueues  | | 9-UnionFind |
-| 10-LengthOfLastWord  |
-| 11-lengthOfLongestSubstring  |
+| 10-LengthOfLastWord  | | 10-SelectionSort |
+| 11-lengthOfLongestSubstring  | | 11-InsertionSort | 
 | 12-LongestPalindromicSubstring  |
 | 13-MajorityElement  |
 | 14-MatrixDiagonalSum  |
