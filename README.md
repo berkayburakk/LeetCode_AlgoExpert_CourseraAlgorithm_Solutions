@@ -8,7 +8,7 @@
 | <a href="https://leetcode.com/problems/climbing-stairs/" style="color:red">3-climbStairs</a>  | 3-Min Max Stack | 3- QuickFind |
 | 4-constructMaximumBinaryTree  | 4-Sunset Views | 4- QuickUnion |
 | 5-DailyTemperatures  | 5- NextGreaterElement | 5- ResizingArray |
-| 6-DesignBrowserHistory  | | 6-Stack |
+| 6-DesignBrowserHistory  | 6- MergeSort | 6-Stack |
 | 7-Fibonacci  | |7-SuccessorWithDelete |
 | 8-generateParenthesis  | | 8- TwoStack | 
 | 9-ImplementStackUsingQueues  | | 9-UnionFind |
@@ -16,7 +16,7 @@
 | 11-lengthOfLongestSubstring  | | 11-InsertionSort | 
 | 12-LongestPalindromicSubstring  | | 12-ShellSort |
 | 13-MajorityElement  | |13- KnuthShuffle |
-| 14-MatrixDiagonalSum  |
+| 14-MatrixDiagonalSum  | | 14-MergeSort |
 | 15-MaximumSubArray  |
 | 16-MergeSortedArray  |
 | 17-minPairSum  |
