@@ -39,6 +39,8 @@
 | 34-ValidSubsequences  |
 | 35-WordPattern  |
 | <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/" style="color:red">36-CheckIfNExist</a> |
+| <a href="https://leetcode.com/problems/find-the-difference/" style="color:red">37-Find The Difference</a> |
+| <a href="https://leetcode.com/problems/largest-number/" style="color:red">38-Largest Number</a> |
 
 
 
