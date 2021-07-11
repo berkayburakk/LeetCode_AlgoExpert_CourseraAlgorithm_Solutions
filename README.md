@@ -5,7 +5,7 @@
 | ----------------- | ------------- | ------------- | ------------- |
 | 1-BestTimetoBuyandSellStock   | 1-MinMaxStack  | 1- Knuth | 1- Deque |
 | 2-BuildAnArrayWithStackOperations  |2-Balanced Brackets  | 2- Queue |
-| <a href="https://leetcode.com/problems/climbing-stairs/" style="color:red">3-climbStairs</a>  | 3-Min Max Stack | 3- QuickFind |
+| <a href="https://leetcode.com/problems/climbing-stairs/" style="color:red">3-ClimbStairs</a>  | 3-Min Max Stack | 3- QuickFind |
 | 4-constructMaximumBinaryTree  | 4-Sunset Views | 4- QuickUnion |
 | 5-DailyTemperatures  | 5- NextGreaterElement | 5- ResizingArray |
 | 6-DesignBrowserHistory  | 6- MergeSort | 6-Stack |
@@ -39,6 +39,8 @@
 | 34-ValidSubsequences  |
 | 35-WordPattern  |
 | <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/" style="color:red">36-CheckIfNExist</a> |
+| <a href="https://leetcode.com/problems/find-the-difference/" style="color:red">37-Find The Difference</a> |
+| <a href="https://leetcode.com/problems/largest-number/" style="color:red">38-Largest Number</a> |
 
 
 
