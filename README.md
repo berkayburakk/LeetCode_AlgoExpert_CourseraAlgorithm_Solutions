@@ -43,6 +43,9 @@
 | <a href="https://leetcode.com/problems/largest-number/" style="color:red">38-Largest Number</a> |
 | <a href="https://leetcode.com/problems/move-zeroes/" style="color:red">39-MoveZeroes</a> |
 | <a href="https://leetcode.com/problems/longest-string-chain/" style="color:red">40-LongestChainString</a> |
+| <a href="https://leetcode.com/problems/rank-teams-by-votes/" style="color:red">41-RankTeamsByVotes</a> |
+
+
 
 
 
