@@ -10,7 +10,7 @@
 | 5-DailyTemperatures  | 5- NextGreaterElement | 5- ResizingArray |
 | 6-DesignBrowserHistory  | 6- MergeSort | 6-Stack |
 | 7-Fibonacci  | 7-TournamentWinner |7-SuccessorWithDelete |
-| 8-generateParenthesis  | | 8- TwoStack | 
+| 8-generateParenthesis  | 8-SortedSquaredArray | 8- TwoStack | 
 | 9-ImplementStackUsingQueues  | | 9-UnionFind |
 | 10-LengthOfLastWord  | | 10-SelectionSort |
 | 11-lengthOfLongestSubstring  | | 11-InsertionSort | 
