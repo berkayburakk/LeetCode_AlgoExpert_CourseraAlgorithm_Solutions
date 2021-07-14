@@ -12,8 +12,8 @@
 | 7-Fibonacci  | 7-TournamentWinner |7-SuccessorWithDelete |
 | 8-generateParenthesis  | 8-SortedSquaredArray | 8- TwoStack | 
 | 9-ImplementStackUsingQueues  |9-BinarySearch | 9-UnionFind |
-| 10-LengthOfLastWord  |10-FindThreeLargestNumber| 10-SelectionSort |
-| 11-lengthOfLongestSubstring  |11-NonConstructibleChange | 11-InsertionSort | 
+| 10-LengthOfLastWord  |10-FindThreeLargNumb| 10-SelectionSort |
+| 11-lengthOfLongestSubstring  |11-NonConstChange | 11-InsertionSort | 
 | 12-LongestPalindromicSubstring  | 12-SearchInSortedMatrix | 12-ShellSort |
 | 13-MajorityElement  | |13- KnuthShuffle |
 | 14-MatrixDiagonalSum  | | 14-MergeSort |
