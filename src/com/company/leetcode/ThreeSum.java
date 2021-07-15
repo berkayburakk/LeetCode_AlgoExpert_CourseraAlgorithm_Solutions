@@ -92,4 +92,31 @@ public class ThreeSum {
         return list;
     }
 
+    public List<Integer[]> threeSum4(int[] array , int targetSum){
+
+        Arrays.sort(array);
+        List<Integer[]> list = new LinkedList<>();
+
+        for (int i = 0; i < array.length-2; i++) {
+            int hi = array.length-1;
+            int lo = i+1;
+            while(lo < hi){
+               int currentSum = array[i] + array[lo]+ array[hi];
+               if(currentSum == targetSum){
+                   Integer[] newTriplets = new Integer[] {i,lo,hi};
+                   list.add(newTriplets);
+                   lo++;
+                   hi--;
+               }
+               else if(currentSum < targetSum){
+                   lo++;
+               }
+               else if(currentSum > targetSum){
+                   hi--;
+               }
+            }
+        }
+        return list;
+    }
+
 }
