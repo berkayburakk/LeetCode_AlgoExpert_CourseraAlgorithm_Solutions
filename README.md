@@ -15,8 +15,8 @@
 | 10-LengthOfLastWord  |10-FindThreeLargNumb| 10-SelectionSort |
 | 11-lengthOfLongestSubstring  |11-NonConstChange | 11-InsertionSort | 
 | 12-LongestPalindromicSubstring  | 12-SearchInSortedMatrix | 12-ShellSort |
-| 13-MajorityElement  | |13- KnuthShuffle |
-| 14-MatrixDiagonalSum  | | 14-MergeSort |
+| 13-MajorityElement  | 13- MoveElementToEnd|13- KnuthShuffle |
+| 14-MatrixDiagonalSum  | 14-SmallestDifference | 14-MergeSort |
 | 15-MaximumSubArray  |
 | 16-MergeSortedArray  |
 | 17-minPairSum  |
