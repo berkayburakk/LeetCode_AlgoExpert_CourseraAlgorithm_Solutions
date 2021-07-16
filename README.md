@@ -19,8 +19,8 @@
 | 14-MatrixDiagonalSum  | 14-SmallestDifference | 14-MergeSort |
 | 15-MaximumSubArray  | 15- PalindromeCheck
 | 16-MergeSortedArray  | 16- RemoveDupLinkedLst
-| 17-minPairSum  |
-| 18-MinStack  |
+| 17-minPairSum  | 17- SpiralTraverse |
+| 18-MinStack  | 18- MonotonicArray |
 | 19-NumberOfDifferentIntegersInAString  |
 | 20-PartitioningIntoMinNumberOfDeciBinaryNumbers  |
 | 21-PerfectNumber  |
