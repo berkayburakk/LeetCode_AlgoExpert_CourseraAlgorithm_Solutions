@@ -17,8 +17,8 @@
 | 12-LongestPalindromicSubstring  | 12-SearchInSortedMatrix | 12-ShellSort |
 | 13-MajorityElement  | 13- MoveElementToEnd|13- KnuthShuffle |
 | 14-MatrixDiagonalSum  | 14-SmallestDifference | 14-MergeSort |
-| 15-MaximumSubArray  |
-| 16-MergeSortedArray  |
+| 15-MaximumSubArray  | 15- PalindromeCheck
+| 16-MergeSortedArray  | 16- RemoveDupLinkedLst
 | 17-minPairSum  |
 | 18-MinStack  |
 | 19-NumberOfDifferentIntegersInAString  |
