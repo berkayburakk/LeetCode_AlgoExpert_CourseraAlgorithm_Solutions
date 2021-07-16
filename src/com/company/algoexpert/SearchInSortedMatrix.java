@@ -24,7 +24,7 @@ public class SearchInSortedMatrix {
         // [0][5]
         while(col >= 0 && row < matrix.length){
 
-            if(matrix[row][col] > target){
+            if(matrix[row][col] > target--){
                 col--;
             }
             else if(matrix[row][col] < target){
