@@ -21,8 +21,8 @@
 | 16-MergeSortedArray  | 16- RemoveDupLinkedLst
 | 17-minPairSum  | 17- SpiralTraverse |
 | 18-MinStack  | 18- MonotonicArray |
-| 19-NumberOfDifferentIntegersInAString  |
-| 20-PartitioningIntoMinNumberOfDeciBinaryNumbers  |
+| 19-NumberOfDifferentIntegersInAString  | 19-RunLengthEncode |
+| 20-PartitioningIntoMinNumberOfDeciBinaryNumbers  | 20- MonotonicArray |
 | 21-PerfectNumber  |
 | 22-PlusOne  |
 | 23-RemoveDuplicatesFromSortedArray  |
