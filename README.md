@@ -23,7 +23,7 @@
 | 18-MinStack  | 18- MonotonicArray |
 | 19-NumberOfDifferentIntegersInAString  | 19-RunLengthEncode |
 | 20-PartitioningIntoMinNumberOfDeciBinaryNumbers  | 20- MonotonicArray |
-| 21-PerfectNumber  |
+| 21-PerfectNumber  | 21-GenerateDocument |
 | 22-PlusOne  |
 | 23-RemoveDuplicatesFromSortedArray  |
 | 24-RemoveOneElementtoMaketheArrayStrictlyIncreasing  |
