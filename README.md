@@ -24,7 +24,7 @@
 | 19-NumberOfDifferentIntegersInAString  | 19-RunLengthEncode |
 | 20-PartitioningIntoMinNumberOfDeciBinaryNumbers  | 20- MonotonicArray |
 | 21-PerfectNumber  | 21-GenerateDocument |
-| 22-PlusOne  |
+| 22-PlusOne  | 22-FirstNonRepChars|
 | 23-RemoveDuplicatesFromSortedArray  |
 | 24-RemoveOneElementtoMaketheArrayStrictlyIncreasing  |
 | 25-reverseVowels  |
