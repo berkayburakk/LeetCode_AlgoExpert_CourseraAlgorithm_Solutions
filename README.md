@@ -44,6 +44,9 @@
 | <a href="https://leetcode.com/problems/move-zeroes/" style="color:red">39-MoveZeroes</a> |
 | <a href="https://leetcode.com/problems/longest-string-chain/" style="color:red">40-LongestChainString</a> |
 | <a href="https://leetcode.com/problems/rank-teams-by-votes/" style="color:red">41-RankTeamsByVotes</a> |
+| <a href="https://leetcode.com/problems/rearrange-words-in-a-sentence/" style="color:red">42-ReArrangeWords</a> |
+
+
 
 
 
